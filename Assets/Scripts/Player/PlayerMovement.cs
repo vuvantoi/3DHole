@@ -12,12 +12,9 @@ public class PlayerMovement : MonoBehaviour
     {
         UpdateDirectionFromInput();
         MovePlayer();
-        RotatePlayer();
+        //RotatePlayer();
     }
 
-    /// <summary>
-    /// Lấy hướng từ joystick, nếu không input thì giữ hướng cũ
-    /// </summary>
     private void UpdateDirectionFromInput()
     {
         Vector2 input = InputManager.Instance.MoveInput;
@@ -28,19 +25,12 @@ public class PlayerMovement : MonoBehaviour
         }
         // Nếu không input → giữ nguyên moveDirection hiện tại
     }
-
-    /// <summary>
-    /// Player luôn di chuyển về hướng moveDirection
-    /// </summary>
     private void MovePlayer()
     {
         transform.position += moveDirection * moveSpeed * Time.deltaTime;
     }
 
-    /// <summary>
-    /// Xoay player theo hướng moveDirection
-    /// </summary>
-    private void RotatePlayer()
+    private void RotatePlayer() // xoay hướng của player
     {
         if (moveDirection.sqrMagnitude < 0.001f) return;
 
