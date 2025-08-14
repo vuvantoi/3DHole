@@ -21,7 +21,7 @@ public class HoleManager : MonoBehaviour
 
         if (circleImg.fillAmount.Equals(1))
         {
-            holeGameObj.localScale += new Vector3(0.3f, 0f, 0.3f);
+            holeGameObj.localScale += new Vector3(0.5f, 0f, 0.5f);
             circleImg.fillAmount = 0f;
         }
     }
