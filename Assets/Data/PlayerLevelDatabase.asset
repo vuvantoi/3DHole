@@ -24,52 +24,52 @@ MonoBehaviour:
     pointsToNextLevel: 15
   - level: 4
     holeScale: 2.5
-    pointsToNextLevel: 135
+    pointsToNextLevel: 45
   - level: 5
     holeScale: 3
-    pointsToNextLevel: 136
-  - level: 0
-    holeScale: 0
+    pointsToNextLevel: 135
+  - level: 6
+    holeScale: 3.5
+    pointsToNextLevel: 405
+  - level: 7
+    holeScale: 4
+    pointsToNextLevel: 1215
+  - level: 8
+    holeScale: 4.5
+    pointsToNextLevel: 3645
+  - level: 9
+    holeScale: 5
+    pointsToNextLevel: 10935
+  - level: 10
+    holeScale: 5.5
+    pointsToNextLevel: 32805
+  - level: 11
+    holeScale: 6
+    pointsToNextLevel: 98415
+  - level: 12
+    holeScale: 6.5
     pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
-  - level: 0
-    holeScale: 0
-    pointsToNextLevel: 0
+  - level: 13
+    holeScale: 7
+    pointsToNextLevel: 295245
+  - level: 14
+    holeScale: 7.5
+    pointsToNextLevel: 885735
+  - level: 15
+    holeScale: 8
+    pointsToNextLevel: 2657205
+  - level: 16
+    holeScale: 8.4
+    pointsToNextLevel: 7971615
+  - level: 17
+    holeScale: 8.8
+    pointsToNextLevel: 23914845
+  - level: 18
+    holeScale: 9.2
+    pointsToNextLevel: 71744535
+  - level: 19
+    holeScale: 9.6
+    pointsToNextLevel: 215233605
+  - level: 20
+    holeScale: 10
+    pointsToNextLevel: 1000000000
