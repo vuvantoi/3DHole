@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c8d8b824a87ec6e48827d90907397085, type: 3}
-  m_Name: ObjectData
+  m_Name: Pepper
   m_EditorClassIdentifier: 
-  nameObject: Bnana
-  point: 3
+  nameObject: Pepper
+  point: 0
