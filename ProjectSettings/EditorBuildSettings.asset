@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 1bc6629e709f30a41820a4e2ffb1d8ed
   - enabled: 1
+    path: Assets/Scenes/SCN_Sanh.unity
+    guid: 7b13229e796b72647a9c4c5d0d19daad
+  - enabled: 1
     path: Assets/Scenes/GamePlay.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
